@@ -1,11 +1,11 @@
-# Callbacks-Early_stopping-Checkpointing-Learning-Rate-Scheduling-in-Computer-Vision-
+# 2.5 Callbacks
+
 <p float="center">
     <img src="call1.png" width="30%" /> 
       <img src="call3.png" width="30%" /> 
   <img src="call2.png" width="30%" /> 
 </p
 
-## 2.5 Callbacks
 ### Setup and Data Preparation
 
 Before diving into the model, let's set up our environment and prepare the data. We'll first load the necessary libraries and print out library versions.
